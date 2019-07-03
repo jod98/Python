@@ -1,4 +1,3 @@
-#Credit Tomรกs Smyth
 print ("---Program initialising---\n")
 import pyaudio
 import numpy as np
