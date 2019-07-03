@@ -8,5 +8,5 @@
 
 #### Thanks.
 
-![kisspng-programming-python-logo-programming-language-compu-data-analysis-course-st-hua-private-school-5bedd96a011543 8733544715423143460044](https://user-images.githubusercontent.com/36043248/60593861-91049880-9d9b-11e9-9bb0-483ab61d0c48.jpg)
+![pythonlogo](https://user-images.githubusercontent.com/36043248/60594000-e476e680-9d9b-11e9-9f09-6aabdfbfee4c.jpg)
 
